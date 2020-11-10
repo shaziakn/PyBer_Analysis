@@ -9,6 +9,6 @@ This graph depicts that in the first four months of the year trends are mostly s
 
 ## Analysis
 
-Over 60% of all rides and total fare value come from urban riders.  
-Rural riders tend to take significantly higher cost, albeit fewer, trips than urban or suburban riders.  
-While comprising about 35% of all rides and fares, suburban and rural cities afford only 22% of the ride-sharing app's total driver population. There may be a strategic opportunity here to boost driver counts in these regions to enhance market share.
+* Over 60% of all rides and total fare value come from urban riders.  
+* Rural riders tend to take significantly higher cost, albeit fewer, trips than urban or suburban riders.  
+* While comprising about 35% of all rides and fares, suburban and rural cities afford only 22% of the ride-sharing app's total driver population. There may be a strategic opportunity here to boost driver counts in these regions to enhance market share.
